@@ -1,4 +1,4 @@
-# Library-DataBase-Management-System
+# Library-Data-Management-System
 Helps manage records of all books present in library. 
 You can add new book in database.
 Update an existing book.
